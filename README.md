@@ -13,6 +13,12 @@ The **React Quiz App** is a web application, designed to test and improve your k
 - 🔁 **Retry Quiz**: Option to retake the quiz.
 - 🗄️ **JSON Server**: Simulate a backend server for storing quiz questions.
 
+## Demo
+
+View the live demo of the app: [React Quiz App](https://react-quiz-hazem.netlify.app)
+
+**Note**: The App is using a fake REST API to simulate backend data. so the demo may not work as expected.
+
 ## Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
